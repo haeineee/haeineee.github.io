@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://haeineee.github.io/sitemap.xml
